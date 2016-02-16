@@ -1,0 +1,8 @@
+[package]
+name = "random-pg"
+version = "0.1.0"
+authors = ["Stepan Koltsov <stepan.koltsov@gmail.com>"]
+
+[dependencies]
+rand = "*"
+pcg_rand = "*"
